@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml:15:1-22:12
+INJECTED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml:15:1-22:12
+INJECTED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml:15:1-22:12
+	package
+		ADDED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml:17:11-49
+		INJECTED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml:18:11-71
+	xmlns:tools
+		ADDED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml:16:11-57
+	xmlns:android
+		ADDED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml:15:11-69
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml:20:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml:21:22-65
+uses-sdk
+INJECTED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml
+INJECTED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml
+INJECTED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml
+INJECTED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml
+		ADDED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml
+		ADDED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevalpatel/Documents/Android/Sample/testutils/src/main/AndroidManifest.xml

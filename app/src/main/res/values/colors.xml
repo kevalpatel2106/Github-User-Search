@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#010101</color>
+    <color name="colorPrimaryDark">#010101</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="windowBackgroundColor">#F5F6F7</color>
+    <color name="textColorPrimary">#2A2A2A</color>
+    <color name="retryButtonUnselectedColor">#4A4A4A</color>
+    <color name="retryButtonSelectedColor">#3A3A3A</color>
+    <color name="errorBackground">#E85959</color>
+</resources>

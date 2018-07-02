@@ -1,0 +1,6 @@
+<resources>
+    <string name="error_location_permission_denied">Location permission denied. Cannot access your current location.</string>
+    <string name="retry">Retry</string>
+    <string name="title_main_activity">Weather forecast - %1s</string>
+    <string name="error_message">Something went wrong at out end!</string>
+</resources>
